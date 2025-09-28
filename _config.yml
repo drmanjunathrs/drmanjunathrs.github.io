@@ -24,11 +24,11 @@ repository               : "drmanjunathrs/drmanjunathrs.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Manjunath R S"
   pronouns         : # example: "she/her"  
   bio              : "Homeopathic Doctor"
   location         : "Bengaluru"
-  employer         : ""
+  employer         : # something
   uri              : # URL
   email            : "none@example.org" 
 

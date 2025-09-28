@@ -10,13 +10,13 @@ redirect_from:
 Welcome! This starter site has been pared down so you can focus solely on telling your story.
 
 ## Background
-Share a short biography, highlight the work you do, or explain the purpose of the site. The left sidebar pulls details from `_config.yml`, so update that file with your name, photo, and contact information.
+Share a short biography, highlight the work you do, or explain the purpose of the site.
 
 ## Current Practice
 List a few topics you care about or projects you want visitors to know about. Feel free to include links to external resources or embedded media.
 
 ## Previous Clinics
 
-
 ## Contact
-Add your preferred contact details or social profiles in `_config.yml` and they will appear automatically in the sidebar.
+
+## Other stuff that you want to include here
